@@ -24,7 +24,7 @@ Then, run:
 ```
 
 ## Notes:
-Still a Work In Progress. Contributions will be considered only after 1st December, 2025 The interpreter doesn't have a stack and only supports one print instruction.
+Still a Work In Progress. Contributions will be considered only after 1st December, 2025. The interpreter doesn't have a stack and only supports one print instruction.
 
 
 
